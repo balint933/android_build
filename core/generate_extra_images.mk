@@ -113,7 +113,6 @@ ALL_DEFAULT_INSTALLED_MODULES += $(INSTALLED_DTIMAGE_TARGET)
 ALL_MODULES.$(LOCAL_MODULE).INSTALLED += $(INSTALLED_DTIMAGE_TARGET)
 endif
 
-
 #----------------------------------------------------------------------
 # Generate 1GB userdata image for 8930
 #----------------------------------------------------------------------
